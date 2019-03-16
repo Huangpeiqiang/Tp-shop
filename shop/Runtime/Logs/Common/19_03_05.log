@@ -1,0 +1,6 @@
+[ 2019-03-05T17:29:26+08:00 ] ::1 /shop/index.php/cat/catlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Cat
+
